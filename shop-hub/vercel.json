@@ -1,0 +1,8 @@
+{
+  "buildCommand": "pnpm run build:client",
+  "outputDirectory": "dist/spa",
+  "installCommand": "pnpm install",
+  "env": {
+    "PING_MESSAGE": "@PING_MESSAGE"
+  }
+}
