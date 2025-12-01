@@ -1,8 +1,0 @@
-{
-  "buildCommand": "pnpm run build",
-  "outputDirectory": "dist/spa",
-  "installCommand": "pnpm install --frozen-lockfile",
-  "env": {
-    "PING_MESSAGE": "@PING_MESSAGE"
-  }
-}
